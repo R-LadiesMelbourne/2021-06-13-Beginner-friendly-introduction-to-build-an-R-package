@@ -1,0 +1,10 @@
+---
+title: "Beginner friendly introduction to build an R package"
+date: "15/06/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
